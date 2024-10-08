@@ -1,0 +1,98 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: lightcyan; 
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: teal; 
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+main {
+    background-color: darkslategray; 
+    padding: 20px;
+    min-height: 400px; 
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    background-color: teal; 
+}
+
+nav ul li {
+    margin: 0 10px;
+}
+
+nav ul.links li {
+    margin: 0 5px;
+}
+
+a {
+    text-decoration: none;
+    font-size: 20px;
+    color: white; 
+    padding: 10px;
+    display: block;
+}
+
+nav ul.links a {
+    font-size: 14px; 
+}
+
+a:hover {
+    background-color: darkslategray; 
+}
+
+section {
+    background-color: white; 
+    color: #333;
+    padding: 20px;
+    margin-top: 20px;
+    width: 80%;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+footer {
+    background-color: white; 
+    color: ;
+    padding: 20px;
+    text-align: center;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+.departamento {
+    padding-top: 10px;
+    margin-left: 230px;
+}
+.verapaz{
+    padding-left: 15px;
+}
+.tamales {
+   margin-left: 135px;
+}
+.Kak’ik {
+  padding-left: 22px;
+  height: 195px;
+}
+.semuc {
+  padding-top: 13px;
+  width:330px;
+  margin-left: 20px;
+}
+.Lachuá{
+  padding-top: 13px;
+  width:330px;
+  margin-left: 20px;
+}
